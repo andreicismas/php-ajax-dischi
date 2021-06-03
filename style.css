@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.card{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+
+    text-align: center;
+    border: solid 2px rgb(25, 79, 110);
+
+    border-radius: 10px;
+}
+
+.card_you_tube{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}

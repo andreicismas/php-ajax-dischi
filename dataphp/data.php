@@ -66,6 +66,22 @@ $albums_disc =  [
         "genere" => "Indie",
         "daYoutube" => '<iframe width="560" height="315" src="https://www.youtube.com/embed/R8VVDZWtxVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     ],
+    [
+        "titolo" => "Organ",
+        "artista" => "Dimension",
+        "anno" => "2021",
+        "copertina" => "Organ.jpg",
+        "genere" => "D&B",
+        "daYoutube" => '<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    ],
+    [
+        "titolo" => "Organ",
+        "artista" => "Dimension",
+        "anno" => "2021",
+        "copertina" => "Organ.jpg",
+        "genere" => "D&B",
+        "daYoutube" => '<iframe width="560" height="315" src="https://www.youtube.com/embed/pUUrJH7jzAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    ],
 
 ];
 ?>

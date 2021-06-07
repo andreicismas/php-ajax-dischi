@@ -84,4 +84,9 @@ $albums_disc =  [
     ],
 
 ];
+
+// API di base -
+header("Content-Type: application/json");
+//ritorno album 
+echo json_encode($albums_disc);
 ?>

@@ -20,7 +20,9 @@ Bonus: Attraverso un’altra chiamata api, filtrare gli album per genere -->
     <!-- style -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     
-    <title>Document</title>
+    <link rel="stylesheet" href="dist/style.css">
+    
+    <title>millestone_2</title>
 </head>
 <body>
     <div id="root">
@@ -29,7 +31,7 @@ Bonus: Attraverso un’altra chiamata api, filtrare gli album per genere -->
       
         <div v-for="album in myMusic" >
             <div >
-                <img :src="album.copertina" alt="">
+                <img :src="'img/'+ album.copertina" alt="">
             </div>
             <div class="specs">
                 <div class="title">
